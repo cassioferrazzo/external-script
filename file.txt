@@ -1,0 +1,1 @@
+Arquivo somente leitura para validação de comando executado via github actions
